@@ -1,1 +1,4 @@
-# Bright_Brain
+# Bright Brain
+![20190813_135934_314 (2)](https://user-images.githubusercontent.com/49622234/65550270-3fc4fa80-deed-11e9-8cfd-3781872d6e19.jpg)
+
+Bright Brain is a mental illness diagnostic device created to raise mental health awareness. The device conducts an interactive survey for the user to complete and diagnoses them as either healthy, depressed, bipolar, or having an anxiety disorder. The device also diagnoses the severity of each mental illness as either mild, moderate, or severe. The user inputs their answers using a 7 inch LCD touch screen that displays questions, options, and the results of the diagnosis. Upon completing the test, the device shows the results on the screen. It also illuminates a transparent model of a brain based on the results, showing where the most active parts of the brain are for someone with that diagnosis. When idle, the device displays mental illness statistics and facts.
